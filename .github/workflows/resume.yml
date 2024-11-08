@@ -8,7 +8,7 @@ on:
 jobs:
   deploy:
     environment: prod
-    name: Deploy to EC2 server
+    name: Deploy to EC2 
     runs-on: ubuntu-latest
 
     steps:
